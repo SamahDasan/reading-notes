@@ -6,9 +6,9 @@
  ## Deffirance Between Text Editors
        
        
-            1 Basic Text Editor
-            2 Coding Spicific Editor
-            3 IDE
+            * Basic Text Editor
+            * Coding Spicific Editor
+            * IDE
         
                 1 - type of computer program that edits plain text. Such programs are sometimes known as "notepad" software.<br>
                      Text editors are provided with operating systems and software development packages, and can be used to change files such as <br>configuration files, documentation files and programming language source code.

@@ -9,3 +9,4 @@ Class | Link
 03 | [read 2b](https://samahdasan.github.io/reading-notes/gitSammarize)
 04 | [read 03](https://samahdasan.github.io/reading-notes/read03)
 05 | [read 04](https://samahdasan.github.io/reading-notes/read04)
+06 | [read 05](https://samahdasan.github.io/reading-notes/read05)

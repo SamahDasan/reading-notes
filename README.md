@@ -10,3 +10,4 @@ Class | Link
 04 | [read 03](https://samahdasan.github.io/reading-notes/read03)
 05 | [read 04](https://samahdasan.github.io/reading-notes/read04)
 06 | [read 05](https://samahdasan.github.io/reading-notes/read05)
+07 | [read 6a](https://samahdasan.github.io/reading-notes/read6A)

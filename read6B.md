@@ -33,3 +33,20 @@ body { background-color:pink; font-size:20px;}
 < style >
 </ head >
 '
+
+## Examples Of attributes in Style 
+color : font and front color .
+<br>
+background-color 
+<br>
+width 
+<br>
+height 
+<br>
+text-height <br>
+size<br>
+float
+<br>
+text-align 
+<br>
+font-family
